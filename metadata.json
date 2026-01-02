@@ -1,0 +1,8 @@
+{
+  "description": "Controls 100 tools in a simulated kitchen.\n\nGemini Flash 3.0",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "name": "Function Call Kitchen"
+}
